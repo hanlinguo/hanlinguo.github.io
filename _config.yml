@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Hailing Luo"
+title                    : "Hanlin Guo"
 title_separator          : "-"
-name                     : &name "Hailing Luo"
-description              : &description "M.S. in Xiamen University"
+name                     : &name "Hanlin Guo"
+description              : &description "Ph.D. in Xiamen University"
 url                      : https://hailingluo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "hailingluo.github.io"
+repository               : "hanlinguo.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -79,11 +79,11 @@ analytics:
 author:
   name             : "Hailing Luo"
   avatar           : "profile.png"
-  bio              : "M.S. in Xiamen University"
+  bio              : "Ph.D. in Xiamen University"
   location         : "Xiamen, China"
   employer         : 
   googlescholar    : 
-  email            : "luohailing@stu.xmu.edu.cn"
+  email            : "hanlinguo@stu.xmu.edu.cn"
   uri              : 
   bitbucket        :
   codepen          :
@@ -91,13 +91,13 @@ author:
   flickr           :
   facebook         : 
   foursquare       :
-  github           : "hailingluo"
+  github           : "hanlinguo"
   google_plus      :
   keybase          :
   instagram        : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-0683-4711"
+  orcid            : 
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
