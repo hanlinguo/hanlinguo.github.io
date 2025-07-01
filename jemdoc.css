@@ -377,7 +377,7 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
-{
+* {
     /* 通用选择器，影响所有元素中的数字 */
     font-family: "Times New Roman", Georgia, serif; /* 示例字体，可替换为其他字体 */
 }
